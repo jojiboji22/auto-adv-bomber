@@ -1,5 +1,5 @@
 default:
-  token: "MTI2ODY4NTA5NzY4Nzg0NzAxNg.GhDPJv.ZdsRnDKV6xRNute03B17pjb4av1JD6HfWu2fXk"
+  token: "MTI2ODY4NTA5NzY4Nzg0NzAxNg.GAVp-o.yitiOlnemLfuJyx3XiAsc2LjW-5OU9FKcgC54k"
   interval: 10 # How many minutes to wait before sending another batch of messages (Default: 60)
 
   # This setting overrides the 'interval' value set above
